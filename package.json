@@ -1,0 +1,17 @@
+{
+  "name": "proyecto1",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node ejercicios.js",
+    "dev1": "node ejercicios2.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^14.2.3"
+  }
+}
