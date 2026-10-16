@@ -6,8 +6,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node ejercicios.js",
-    "dev1": "node ejercicios2.js"
+    "dev1": "node ejercicios.js",
+    "dev2": "node ejercicios2.js",
+    "dev3": "node ejercicios3.js",
+    "dev4": "node ejercicios4.js",
+    "dev5": "node ejercicios4.js"
   },
   "author": "",
   "license": "ISC",

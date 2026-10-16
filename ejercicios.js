@@ -8,7 +8,6 @@ async function clasificador() {
             message: 'ingresa la temperatura en grados Celsius:',
         }
     ]);
-
     const temperatura = parseFloat(respuestas.temperInput);
 
     if (isNaN(temperatura)) {
