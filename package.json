@@ -10,7 +10,8 @@
     "dev2": "node ejercicios2.js",
     "dev3": "node ejercicios3.js",
     "dev4": "node ejercicios4.js",
-    "dev5": "node ejercicios4.js"
+    "dev5": "node ejercicios5.js",
+    "dev6": "node ejercicios6.js"
   },
   "author": "",
   "license": "ISC",
